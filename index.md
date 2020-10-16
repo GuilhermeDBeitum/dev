@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Guilherme D. Beitum
+UI / UX / DESIGNER
 
-You can use the [editor on GitHub](https://github.com/GuilhermeDBeitum/dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I’m Guilherme, systems developer for the web. Front and back. Committed to the service to be performed, executing in the best possible way, I always use good logical reasoning, to try to carry out deployments without leaving errors. Proactive, I'm always trying to improve the work environment. I have experience with computers, systems and spreadsheets. I work with my Xpointer system, for Raspberry cards, I maintain computers (hardware and software) and, for a long time, I am a freelance WebDev. I am punctual in my commitments and I highly value meeting deadlines.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuilhermeDBeitum/dev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://guilhermebeitum.com.br
